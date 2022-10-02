@@ -1,2 +1,2 @@
 # Flask
-this repository contains my work wih the flask web framework
+this repository contains my work with the flask web framework
